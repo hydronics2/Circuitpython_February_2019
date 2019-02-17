@@ -8,7 +8,7 @@ Parts list
 - [WS2812 LED Strip](https://www.aliexpress.com/item/5m-DC5V-WS2812B-led-pixel-srip-non-waterproof-74pcs-WS2812B-M-with-60pixels-BLACK-PCB-only/1667439010.html?)
 - [FQP30N06 Power Mosfet TO-220](https://www.aliexpress.com/item/Free-shipping-100pcs-lot-FQP30N06-30N06-TO-220-IC/32863833006.html?)
 - [3.5 mm (1/8") jack](https://www.aliexpress.com/item/Free-shipping-100pcs-lot-FQP30N06-30N06-TO-220-IC/32863833006.html?)
-- [trim pot ~1K)](https://www.aliexpress.com/item/Free-shipping-100PCS-3296W-1-103LF-3296W-3296-10K-OHM-Trimpot-Trimmer-Potentiometer/32285032567.html?)
+- [trim pot ~1K](https://www.aliexpress.com/item/Free-shipping-100PCS-3296W-1-103LF-3296W-3296-10K-OHM-Trimpot-Trimmer-Potentiometer/32285032567.html?)
 - 100uF 16V Capacitor
 - 10k pullup resistors
 - 220 ohm current limiting LED resistors
