@@ -16,3 +16,5 @@ Parts list
 - [PN2222A Transistor](https://www.aliexpress.com/item/100pcs-PN2222A-TO-92-PN2222-TO-92/32888878276.html?)
 - [micro USB connector](https://www.digikey.com/product-detail/en/amphenol-icc-fci/10118194-0001LF/609-4618-6-ND/2785383)
 
+
+
