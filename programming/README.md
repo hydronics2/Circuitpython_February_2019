@@ -18,6 +18,7 @@ LOAD the "a1_blink_digital_out_example.py" script that's currently running. It b
 
 ## a2_accelerometer_led
 Modify the code.py script and uncomment a2_accelerometer_led.
+![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/a2_accelerometer.JPG)
 
 
 
