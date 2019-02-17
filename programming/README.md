@@ -11,7 +11,7 @@ LOAD the code.py script. Code.py determines which scripts run. Uncomment the fil
 
 
 ## a1_blink_digital_out_example
-LOAD the "a1_blink_digital_out_example.py" script that's currently running. It blinks the LED on pin 13. An internal LED also blinks. Try blinking the other LEDs on pins A1 and A2. In my case I labeled them greenLed and yellowLed.
+LOAD the "a1_blink_digital_out_example.py" script that's currently running. It blinks the LED on pin 13. An internal LED also blinks. Try blinking the other LEDs on pins A1 and A2. In my case I labeled them greenLed and yellowLed. Hit the SERIAL button to see the print statements.
 
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/a1_blink.JPG)
 
