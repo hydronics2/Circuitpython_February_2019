@@ -4,6 +4,7 @@ I uploaded the above python scripts onto your Adafruit M0 board. When you plug t
 
 Download and install the [MU editor](https://learn.adafruit.com/welcome-to-circuitpython/installing-mu-editor) if you have not done so already.
 
+
 ## code.py
 LOAD the code.py script. Code.py determines which scripts run. Uncomment the files you would like to run.
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/code.py.jpg)
@@ -13,5 +14,10 @@ LOAD the code.py script. Code.py determines which scripts run. Uncomment the fil
 LOAD the "a1_blink_digital_out_example.py" script that's currently running. It blinks the LED on pin 13. An internal LED also blinks. Try blinking the other LEDs on pins A1 and A2. In my case I labeled them greenLed and yellowLed.
 
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/a1_blink.JPG)
+
+
+## a2_accelerometer_led
+Modify the code.py script and uncomment a2_accelerometer_led.
+
 
 
