@@ -20,7 +20,7 @@ LOAD the "a1_blink_digital_out_example.py" script that's currently running. It b
 Modify the code.py script and uncomment a2_accelerometer_led.
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/a2_accelerometer_code.JPG)
 The script lights up an LED with increasing tilt.
-When you use a print statement with double prethensis it allows the data to the plotter; such as, print((x,y,z)).
+When you use a print statement with double perenthesis it allows the data to the plotter; such as, print((x,y,z)).
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/accel_plotter.JPG)
 
 ## a3_play_wav_file
@@ -48,8 +48,8 @@ Try plugging in both the potentiometer and photocell to see how the analog-to-di
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/pot2.JPG)
 Make the photocell voltage divder using a photocell and a 10k resistor.
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/photocell2.JPG)
-You can see the data on the plotter by using the print statement with extra prethensis and a comma.
-![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/analog_in_data.JPG.JPG)
+You can see the data on the plotter by using the print statement with extra perenthesis and a comma, "print((analogValue,))"
+![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/analog_in_data.JPG)
 
 
 
