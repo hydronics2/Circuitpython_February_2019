@@ -1,6 +1,8 @@
 # Circuitpython_February_2019
 This is a soldering and programming class in Circuitpython
 
+github.com/hydronics2/circuitpython_february_2019
+
 This class occurs in two parts -- Soldering and Programming.
 
 We'll be soldering parts and headers  onto a custom printed circuit board(PCB).  
