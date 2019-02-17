@@ -9,7 +9,7 @@ Connecting the Adafruit M0 to your computer it shows up as an external hard driv
 
 [Soldering Tutorial](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/README.md)
 
-Programming Tutorial
+[Programming Tutorial](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/README.md)
 
 ![alt text](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/complete.JPG)
 
