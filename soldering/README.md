@@ -17,7 +17,7 @@ Parts list
 - [micro USB connector](https://www.digikey.com/product-detail/en/amphenol-icc-fci/10118194-0001LF/609-4618-6-ND/2785383)
 
 
-![Here's the schematic](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/eagle_design_files/PCB_schematic.pdf)
+[Here's the schematic](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/eagle_design_files/PCB_schematic.pdf)
 
 
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/1.JPG)
