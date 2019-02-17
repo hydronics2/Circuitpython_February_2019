@@ -46,9 +46,10 @@ Modify the code.py script and unomment analog_in_example.
 Try plugging in both the potentiometer and photocell to see how the analog-to-digital converter(ADC) on pin A3 interprets the signals.
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/pot1.JPG)
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/pot2.JPG)
-![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/photocell.JPG)
+Make the photocell voltage divder using a photocell and a 10k resistor.
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/photocell2.JPG)
-
+You can see the data on the plotter by using the print statement with extra prethensis and a comma.
+![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/analog_in_data.JPG.JPG)
 
 
 
