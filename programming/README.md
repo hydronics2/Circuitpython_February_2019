@@ -21,6 +21,7 @@ Modify the code.py script and uncomment a2_accelerometer_led.
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/a2_accelerometer_code.JPG)
 The script lights up an LED with increasing tilt.
 When you use a print statement with double prethensis it allows the data to the plotter; such as, print((x,y,z)).
+![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/accel_plotter.JPG)
 
 
 
