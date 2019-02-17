@@ -23,6 +23,8 @@ The script lights up an LED with increasing tilt.
 When you use a print statement with double prethensis it allows the data to the plotter; such as, print((x,y,z)).
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/accel_plotter.JPG)
 
+## a3_play_wav_file
+Modify the code.py script and unomment a3_play_wav_file
 
 
 
