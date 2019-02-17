@@ -25,6 +25,8 @@ When you use a print statement with double prethensis it allows the data to the 
 
 ## a3_play_wav_file
 Modify the code.py script and unomment a3_play_wav_file
+![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/play_wav.JPG)
+
 
 
 
