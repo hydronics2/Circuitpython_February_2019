@@ -27,6 +27,13 @@ When you use a print statement with double prethensis it allows the data to the 
 Modify the code.py script and unomment a3_play_wav_file
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/play_wav.JPG)
 
+5 wav files for you try in the sounds folder uncomment out the files to play each sound file.. and/or make your own. 
+Save files as 22 KHz or less because the circuitpython can't handle more data than that and the DAC output is 10-bit so anything over 16-bit will just take up room without better quality.
+
+![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/play_wav2.JPG)
+
+
+
 
 
 
