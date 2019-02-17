@@ -11,4 +11,4 @@ It shows up as an external hard drive with pre-loaded example scripts.
 
 Programming Tutorial
 
-![alt text][https://github.com/hydronics2/Circuitpython_February_2019/blob/master/complete.JPG]
+![alt text](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/complete.JPG)
