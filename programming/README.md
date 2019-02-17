@@ -33,6 +33,26 @@ Save files as 22 KHz or less because the circuitpython can't handle more data th
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/play_wav2.JPG)
 
 
+## a4_ws2812_example
+Modify the code.py script and unomment a4_ws2812_example
+![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/ws2812_1.JPG)
+solder three leads onto your LED strip on the correct side (start of the arrow). Insert the LEDs into the screw headers.
+LOAD the sketch and modify the "num_leds" variable to the number of LEDs in your strip.
+The red, green, and blue LEDs can have values from 0 to 255.
+![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/ws2812_2.JPG)
+
+## analog_in_example
+Modify the code.py script and unomment analog_in_example.
+Try plugging in both the potentiometer and photocell to see how the analog-to-digital converter(ADC) on pin A3 interprets the signals.
+![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/pot1.JPG)
+![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/pot2.JPG)
+![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/photocell.JPG)
+![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/programming/pics/photocell2.JPG)
+
+
+
+
+
 
 
 
