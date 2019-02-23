@@ -31,7 +31,7 @@ Solder on pins should look concave. NOT BALLS. Use your solding iron to wick awa
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/6.JPG)
 Your cap maybe 47uF cause that's what I had although the adafruit tutorial recomends 100uF 16V.
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/7.JPG)
-![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/8.JPG)
+[](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/8.JPG)
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/9.JPG)
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/10.JPG)
 The resistor color band for 10K is brown-black-orange. The last color (gold in this picture) indicates tollerance (1%, 5%, etc).
