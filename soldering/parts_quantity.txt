@@ -1,0 +1,27 @@
+
+itsybits qty(8)
+WS8212 Strip ~5meters
+2-pin 5.08mm headers qty(122)
+1/8" audio jacks qty(76)
+16+ pins male headers qty(62)
+16pin dual row female headers qty(101)
+USB micro cables mix qty(15) not all tested
+100k trim pots qty(7)
+10k potentiometers qty(12)
+5mm LEDs qty(1000)
+photocels qty(50+)
+10K and 220ohm resistors... qty(plenty?)
+10uF 50v and 10uf 25V qty(~100)
+pin-to-pin Jumper wires qty(100+)
+
+LIS3D_SH Accelerometers qty(3)
+usb drives qty(5)
+circuitPython PCBs 1/26/10 qty(4)
+
+future class
+2ohm 1/2W resistors qty(100) S2HCT-ND
+FQP power mosfets qty(unopened package ~100?)
+large 12mm buttons qty(40)
+
+Need
+leaded solder
