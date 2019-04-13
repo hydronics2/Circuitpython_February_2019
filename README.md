@@ -7,7 +7,7 @@ This class occurs in two parts -- Soldering and Programming.
 
 We'll be soldering parts and headers  onto a custom printed circuit board(PCB).  
 Once complete, the microController (an Adfruit development board -  [ItsyBitsy M0](https://www.adafruit.com/product/3727)) sockets onto the PCB female headers.
-When you connect the Adafruit M0 MicroController to your computer it shows up as an external hard drive with pre-loaded example scripts.
+When you connect the Adafruit M0 microController to your computer it shows up as an external hard drive with pre-loaded example scripts.
 
 [Soldering Tutorial](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/README.md)
 
