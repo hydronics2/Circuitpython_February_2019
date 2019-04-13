@@ -1,7 +1,7 @@
 # Circuitpython_February_2019
 This is a soldering and programming class in Circuitpython
 
-[github.com/hydronics2/circuitpython_february_2019](github.com/hydronics2/circuitpython_february_2019)
+[github.com/hydronics2/circuitpython_february_2019](https://github.com/hydronics2/Circuitpython_February_2019)
 
 This class occurs in two parts -- Soldering and Programming.
 
