@@ -34,26 +34,35 @@ Your cap maybe 47uF cause that's what I had although the adafruit tutorial recom
 [](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/8.JPG)
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/9.JPG)
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/10.JPG)
+
 The resistor color band for 10K is brown-black-orange. The last color (gold in this picture) indicates tollerance (1%, 5%, etc).
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/11.JPG)
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/12.JPG)
+
 Soldering the accelerometer board ~1/8" above the PCB keeps the pins looking nice on the bottom. 
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/13.JPG)
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/14.JPG)
+
 These 5.08mm screw terminals slide together.
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/15.JPG)
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/16.JPG)
+
 Solder all those Pins!
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/17.JPG)
+
 Choose wichever color LEDs you like. The longer lead is positive.
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/18.JPG)
+
 The notch in the LED is negative and matches the notch in the silkscreen.
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/19.JPG)
+
 The current limiting resistors for the LEDs is 220ohms. The color band for 220 is red-red-black.
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/20.JPG)
+
 Solder all those Pins!
 Break the male headers into 14 pins to match the length of the uController and solder the pins to the uController.
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/21.JPG)
+
 Solder all those Pins!
 Break 2 pins off the 16pin male headers to get 14 pins is all you need. You're Done.
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/chip_soldered.JPG)
