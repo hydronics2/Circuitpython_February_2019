@@ -80,4 +80,4 @@ Break 2 pins off the 16pin male headers to get 14 pins is all you need. You're D
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/chip_soldered.JPG)
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/ws2812.JPG)
 
-We're not going to solder the rest of the parts unless we have more time or you want to do extra.
+That's it. We're all finished! We're leaving a few footprints unpopulated for this class.
