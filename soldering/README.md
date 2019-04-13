@@ -59,6 +59,7 @@ Break 2 pins off the 16pin male headers to get 14 pins is all you need. You're D
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/chip_soldered.JPG)
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/ws2812.JPG)
 ![](https://github.com/hydronics2/Circuitpython_February_2019/blob/master/soldering/pics/22.jpg)
+
 Solder 3 wires onto the potentiometer.
 
 That's it. We're all finished! We're leaving a few footprints unpopulated for this class.
